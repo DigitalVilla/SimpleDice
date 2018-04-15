@@ -1,5 +1,7 @@
-# Cool Game Dice
+# Game Dice
+### A pair of beautiful Dice for any ocation 
 Shake and roll! or just press the button...<br/>
-Game Dice for every ocation.<br/>
+#### Technologies
+iOS, Swift
 ###### Screen Shot
-![Screenshot](Dice.jpg)
+![Screenshot](gameDice.png)
